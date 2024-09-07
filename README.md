@@ -1,1 +1,1 @@
-# biganer-scripate
+# biganer-scripater
